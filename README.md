@@ -145,33 +145,15 @@ Topics include:
 
 ## 🛠️ Tech Stack Snapshot
 
-Area
+| Area      | Tools                                 |
+| --------- | ------------------------------------- |
+| Backend   | Node.js, TypeScript, Fastify, Express |
+| APIs      | REST, GraphQL                         |
+| Databases | MongoDB, PostgreSQL, Redis            |
+| Messaging | Kafka, SQS, SNS, EventBridge          |
+| Cloud     | AWS Serverless, Docker                |
+| Testing   | Jest                                  |
 
-Tools
-
-Backend
-
-Node.js, TypeScript, Fastify, Express
-
-APIs
-
-REST, GraphQL
-
-Databases
-
-MongoDB, PostgreSQL, Redis
-
-Messaging
-
-Kafka, SQS, SNS, EventBridge
-
-Cloud
-
-AWS Serverless, Docker
-
-Testing
-
-Jest
 
 ----------
 
