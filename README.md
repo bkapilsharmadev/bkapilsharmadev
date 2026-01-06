@@ -1,61 +1,187 @@
-# 👋 Hello, I'm Kapil Sharma!
 
-🎯 **Software Engineer | Sr. Developer/Tech Lead**  
-With nearly 6 years of experience designing, developing, and deploying scalable web applications, I specialize in backend technologies, DevOps tools, and creating innovative solutions to challenging problems.
+# 👋 Hi, I’m Kapil Sharma
 
----
+🎯 **Senior Software Engineer | Backend & Platform Engineering | Distributed Systems**
 
-## 🚀 About Me
-- 💻 **Backend Expertise:** Node.js, Express, Fastify, TypeScript, Jest, PostgreSQL, MongoDB, and Redis.
-- 🌐 **Frontend Knowledge:** React.js, Vanilla JavaScript, HTML5, CSS3, Bootstrap, and jQuery.
-- ☁️ **DevOps Skills:** Docker, AWS (ECR, ECS, S3), GitHub Actions.
-- 📡 **Messaging Systems:** Apache Kafka, Socket.io.
-- 🛠️ **Problem Solver:** Implemented Redis caching, microservices architecture, and optimized complex database queries for scalability.
+I am a backend-focused software engineer with **~7 years of experience** building **scalable, production-grade systems** across media, enterprise, and platform domains. I specialize in **Node.js, TypeScript, distributed architectures, and cloud-native systems**, with strong exposure to **event-driven platforms, data pipelines, and system performance optimization**.
 
----
+----------
 
-## 🌟 Highlights
-- **Mentored & Guided Developers:** Trained 25+ developers on best practices in Node.js, JavaScript, and database management.
-- **Scalability Champion:** Resolved online test issues with Redis and eliminated direct MySQL server reads/writes.
-- **Microservices Architect:** Developed a Kafka-powered LMS data distribution system.
-- **Performance Optimizer:** Refined PostgreSQL queries and implemented BullMQ for concurrent file processing.
+## 🧠 Professional Summary
 
----
+-   Strong experience designing **modular backend systems** using **hexagonal / clean architecture**
+    
+-   Hands-on with **event-driven and streaming systems** (Kafka, queues, async workflows)
+    
+-   Proven ability to work closely with **Staff Engineers, Architects, and cross-functional teams**
+    
+-   Comfortable owning **critical backend components** in large, distributed environments
+    
+-   Experience building **AI-assisted systems** (summarization, Q&A, classification, embeddings)
+    
 
-## 🌱 Current Focus
-- Building efficient, scalable microservices using Fastify and TypeScript.
-- Exploring advanced AI tools like ChatGPT and Copilot to enhance development workflows.
-- Blogging and creating in-depth guides on JavaScript, TypeScript, PostgreSQL, and MongoDB at [BytesJourney.com](https://BytesJourney.com).
+----------
 
----
+## 🧩 Core Technical Expertise
 
-## 📫 Get in Touch
-- 📍 Location: Navi Mumbai, Maharashtra
-- 📧 Email: [bkapilsharma.dev@gmail.com](mailto:bkapilsharma.dev@gmail.com)
-- 💼 LinkedIn: [Kapil Sharma](https://linkedin.com/in/b-kapil-sharma-b12438123)
-- 🖥️ GitHub: [bkapilsharmadev](https://github.com/bkapilsharmadev)
+### Backend & Platform
 
----
+-   **Node.js, TypeScript, Fastify, Express**
+    
+-   REST & **GraphQL APIs**
+    
+-   Clean Architecture / Hexagonal Design
+    
+-   Domain-driven backend services
+    
 
-## 🛠️ Skills Overview
+### Data & Storage
 
-| **Category**         | **Technologies**                                      |
-|-----------------------|------------------------------------------------------|
-| **Backend**          | Node.js, Express, Fastify, TypeScript, EJS           |
-| **Frontend**         | HTML5, CSS3, JavaScript, React.js, Bootstrap, jQuery |
-| **Databases**        | PostgreSQL, SQL Server, MongoDB, Redis               |
-| **DevOps & Tools**   | Docker, AWS ECS/S3, GitHub Actions                   |
-| **Messaging Systems**| Apache Kafka, Socket.io                              |
+-   **MongoDB Atlas, PostgreSQL, Redis**
+    
+-   Query optimization, indexing strategies
+    
+-   Pagination strategies (skip/limit vs searchAfter)
+    
 
----
+### Eventing & Messaging
 
-### 📜 Certifications
-- **Web Designing and Development** - Arena Animation (2018)
+-   **Apache Kafka**
+    
+-   AWS SQS, SNS, EventBridge, Kinesis
+    
+-   Asynchronous, fault-tolerant processing pipelines
+    
+
+### Cloud & DevOps
+
+-   **AWS Serverless** (Lambda-first architectures)
+    
+-   Docker, CI/CD with GitHub Actions
+    
+-   Infrastructure-aware application design
+    
+
+### Testing & Quality
+
+-   Jest, integration testing
+    
+-   Mocked persistence with real domain logic
+    
+-   Debugging distributed systems in production
+    
+
+----------
+
+## 🏗️ Selected Engineering Highlights
+
+-   Contributed to **migration from legacy backend systems to a hexagonal architecture**, improving modularity and long-term maintainability.
+    
+-   Designed and implemented **GraphQL APIs with DSL-based querying**, simplifying frontend data access.
+    
+-   Built **end-to-end tracking dashboards** for media acquisition and delivery workflows.
+    
+-   Developed **GenAI-powered summarization and Q&A systems** to reduce operational support overhead.
+    
+-   Performed **performance analysis and R&D** on pagination strategies and large dataset access patterns.
+    
+-   Implemented **event-driven processors** using Kafka and AWS messaging services.
+    
+
+----------
+
+## 🤝 Leadership & Collaboration
+
+-   Mentored and guided **20+ engineers** on backend best practices, system design, and debugging strategies.
+    
+-   Regularly collaborated with **Staff Engineers and Tech Leads** on architectural decisions.
+    
+-   Contributed to code reviews, design discussions, and production incident resolution.
+    
+
+----------
+
+## 🔍 Current Focus Areas
+
+-   High-throughput backend systems using **Fastify + TypeScript**
+    
+-   Event-driven and streaming architectures
+    
+-   AI/ML-assisted backend services (classification, embeddings, summarization)
+    
+-   System design for scale, reliability, and observability
+    
+
+----------
+
+## 🌐 Writing & Knowledge Sharing
+
+I write technical deep-dives on backend engineering and system design at:  
+🔗 **[https://bytesjourney.com](https://bytesjourney.com)**
+
+Topics include:
+
+-   Node.js & TypeScript internals
+    
+-   MongoDB & PostgreSQL optimization
+    
+-   Backend architecture patterns
+    
+-   Practical AI integration in backend systems
+    
+
+----------
+
+## 📫 Connect With Me
+
+-   📍 Navi Mumbai, India
+    
+-   💼 LinkedIn: [https://linkedin.com/in/b-kapil-sharma-b12438123](https://linkedin.com/in/b-kapil-sharma-b12438123)
+    
+-   🖥️ GitHub: [https://github.com/bkapilsharmadev](https://github.com/bkapilsharmadev)
+    
+
+----------
+
+## 🛠️ Tech Stack Snapshot
+
+Area
+
+Tools
+
+Backend
+
+Node.js, TypeScript, Fastify, Express
+
+APIs
+
+REST, GraphQL
+
+Databases
+
+MongoDB, PostgreSQL, Redis
+
+Messaging
+
+Kafka, SQS, SNS, EventBridge
+
+Cloud
+
+AWS Serverless, Docker
+
+Testing
+
+Jest
+
+----------
 
 ### 🎓 Education
-- **B.Sc. in Physics (Hons.)**  
-  Liberal College of Science, Imphal, Manipur
 
----
+**B.Sc. (Hons.) Physics**  
+Liberal College of Science, Imphal, Manipur
 
-Feel free to connect or collaborate! Let's build something great together. 🚀
+----------
+
+### 📜 Certification
+
+**Web Designing & Development** – Arena Animation (2018)
